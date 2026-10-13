@@ -1,4 +1,8 @@
-## hello world! 
+<div style="width:100%;">  
+  <img src="images/banner.jpg" alt="q" border="0" style="width:100%; height:210px; display:block; border-radius:20px;">
+</div>  
+
+## hello, world! 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
