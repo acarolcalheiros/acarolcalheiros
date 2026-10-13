@@ -3,7 +3,7 @@
 </div>  
 
 # hello, world! 
-<b>estudante de sistemas de informação | 2024 - 2027 | projetos acadêmicos e pessoais<b>
+<b>estudante de sistemas de informação e estagiária da Porto | projetos acadêmicos e pessoais<b>
 
 <table width="100%">
   <tr>
