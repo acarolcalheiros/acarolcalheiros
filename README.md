@@ -1,5 +1,5 @@
 <div style="width:100%;">  
-  <img src="images/fishbanner.jpg" alt="q" border="0" style="width:100%; height:180px; display:block;">
+  <img src="banner.jpg" alt="q" border="0" style="width:100%; height:180px; display:block;">
 </div>  
 
 # hello, world! 
