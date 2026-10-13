@@ -2,8 +2,8 @@
   <img src="images/fishbanner.jpg" alt="q" border="0" style="width:100%; height:180px; display:block;">
 </div>  
 
-## hello, world! 
-###<b>estudante de sistemas de informação | 2024 - 2027 | projetos acadêmicos e pessoais<b>
+# hello, world! 
+<b>estudante de sistemas de informação | 2024 - 2027 | projetos acadêmicos e pessoais<b>
 
 <table width="100%">
   <tr>
